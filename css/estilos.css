@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/fdd7a89c455671e899cd90d74bcc8c76.jpg);
+    background-size: auto;
+}
+
+h1{
+    text-align: center;
+    background-color: white;
+    color: black;
+
+}
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: wheat;
+  }
+
+  #result{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    color: black;
+  }
